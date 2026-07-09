@@ -1,5 +1,5 @@
-project = 'spypoint-login'
-author = 'spypoint-login'
+project = 'Express VPN'
+author = 'Express VPN'
 release = '1.0'
 
 # Extensions
